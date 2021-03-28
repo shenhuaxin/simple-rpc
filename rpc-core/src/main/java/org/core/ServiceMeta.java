@@ -11,6 +11,6 @@ public class ServiceMeta {
 
     private String host;
 
-    private String port;
+    private int port;
 
 }
